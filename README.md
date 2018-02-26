@@ -1,8 +1,8 @@
 # JavaRSSParser
-A Java library for parsing RSS[https://en.wikipedia.org/wiki/RSS] feeds.
+A Java library for parsing [RSS](https://en.wikipedia.org/wiki/RSS) feeds.
 This project is actually meant for my personal use (I will be using the binaries of this project for some other task). Feel free to view the source code and modify it as per your needs.
 There are many XML parsing libraries for Java and each one of them have their own pros and cons.
-I found JDOM[http://www.jdom.org/] to be very easy to use and I have used it in this project.
+I found [JDOM](http://www.jdom.org/) to be very easy to use and I have used it in this project.
 
 
 ## How to use this library?
